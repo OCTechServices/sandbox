@@ -1,0 +1,3 @@
+IssueID,Asset,Category,Severity,Title,Description,Owner,Status,CreatedDate,DueDate,Vendor,EstimatedCost,ActualCost,EvidenceLinks,Notes
+1,A-residential-murrieta,Maintenance,Medium,Sample issue title,Describe the issue,Daniel,New,2026-03-02,,,$0,,,
+2,B-condo-vista,HOA,High,Sample HOA-related item,Describe HOA notice or risk,Daniel,New,2026-03-02,,,$0,,,
