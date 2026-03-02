@@ -1,4 +1,0 @@
-ObligationID,Asset,Type,Frequency,DueDate,Amount,Payee,AccountMethod,ReminderCadence,Notes
-1,Portfolio,Property Tax,Semiannual,,,County,Online,30/14/7 days,Fill actual due dates
-2,A-residential-murrieta,Insurance,Annual,,,Carrier,Autopay,45/30/14 days,
-3,B-condo-vista,HOA Dues,Monthly,,,HOA,Autopay,14/7/3 days,
